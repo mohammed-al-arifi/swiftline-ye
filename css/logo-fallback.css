@@ -1,0 +1,36 @@
+/* =========================================================
+   LOGO TEXT FALLBACK STYLES
+   Displays when logo.png has not been placed yet
+   ========================================================= */
+
+.logo-text-fallback {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+}
+
+.logo-sl {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: var(--accent);
+  color: #ffffff;
+  font-weight: 800;
+  font-size: 1rem;
+  border-radius: 8px;
+  font-family: 'Manrope', sans-serif;
+  letter-spacing: -0.02em;
+  flex-shrink: 0;
+}
+
+.logo-name {
+  font-family: 'Manrope', sans-serif;
+  font-weight: 800;
+  font-size: 1rem;
+  color: #ffffff;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+}

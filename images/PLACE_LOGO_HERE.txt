@@ -1,0 +1,27 @@
+LOGO PLACEMENT INSTRUCTIONS
+============================
+
+Place the Swift Line company logo in this folder as:
+  logo.png
+
+Requirements:
+- Format: PNG (transparent background preferred)
+- Minimum size: 320 × 112 px (any proportional size)
+- The header displays it at 160px wide × auto height
+- For best results, use a wide logo (wider than tall)
+
+Additionally, you can place:
+  og-image.jpg  — Social media preview image (1200 × 630 px recommended)
+
+FAVICON INSTRUCTIONS
+====================
+
+Generate favicons from the logo using:
+  https://favicon.io
+  https://realfavicongenerator.net
+
+Place the generated files in the /favicon/ folder:
+  favicon.ico
+  favicon-32x32.png
+  favicon-16x16.png
+  apple-touch-icon.png
